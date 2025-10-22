@@ -41,3 +41,15 @@ pdflatex main.tex
 ```
 
 You may need to run the command more than once to ensure all cross-references and the table of contents are generated correctly.
+
+## Copyediting Directives for Recipes
+
+To ensure consistency, clarity, and quality across all recipes, adhere to the following copyediting directives:
+
+*   **Consistent Terminology:** Use uniform terms for ingredients, measurements, and equipment. For example, always use "tablespoon" or "tbsp" (choose one and stick to it), not a mix of both.
+*   **Imperative Voice:** All instructions should be written as direct commands (e.g., "Preheat oven to 350°F," "Combine flour and sugar," "Whisk until smooth").
+*   **Clarity and Conciseness:** Avoid jargon, superfluous words, and ambiguous phrasing. Instructions should be easy to understand for cooks of all skill levels.
+*   **Units and Abbreviations:** Standardize all units of measurement and their abbreviations. Ensure consistency in how fractions are presented.
+*   **Formatting:** Use consistent formatting for emphasis (e.g., bolding for recipe titles, italics for specific notes).
+*   **Helpful Descriptive Language:** Include descriptive language where it genuinely adds value to the cook's understanding of a step or desired outcome (e.g., "bake until golden brown," "cut butter until pea-sized lumps remain," "dough should be very sticky"). Avoid overly conversational or unnecessary commentary.
+*   **Safety Notes:** Incorporate safety warnings or tips where appropriate (e.g., "handle hot pan with care," "do not overmix").
